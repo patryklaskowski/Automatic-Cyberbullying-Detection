@@ -8,7 +8,7 @@ PolEval 2019 Task6-1 ([link](http://2019.poleval.pl/index.php/tasks/task6)). Har
 
 ### Used models:
 - [x] SpaCy TextCategorizer
-- [x] Linear Regression
+- [x] Linear Regression (optimized with GridSearchCv)
 
 ---
 
