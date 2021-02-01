@@ -17,3 +17,9 @@ PolEval 2019 Task6-1 ([link](http://2019.poleval.pl/index.php/tasks/task6)). Har
 - Precision
 - Recall
 - F1-Score
+
+---
+
+### PolEval data distribution:
+
+<p align="center"><img src="https://github.com/patryklaskowski/Automatic-Cyberbullying-Detection/blob/main/images/poleval_data_distribution.png" alt="poleval_data_distribution.png" width="500"></p>
